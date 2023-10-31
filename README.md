@@ -22,6 +22,7 @@ Files and steps for Thinkpad E14 Hackintosh。
 OpenCore
 
 sudo pmset -a hibernatemode 0
+
 sudo pmset -a proximitywake 0
 
 # Working Things:
