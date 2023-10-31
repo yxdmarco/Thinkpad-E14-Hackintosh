@@ -2,14 +2,44 @@
 Files and steps for Thinkpad E14 Hackintosh。
 
 # Hardward Information:
+- Processor : Intel Core(TM) i7-10510U
+- RAM : 16GB DDR4 2667Mhz
+- IGPU : Intel UHD 
+- Storage : 1x HDD 1TB + 1x NVME 1TB
+- Ethernet : Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter
+- Wifi : Intel Wi-Fi 6E AX210NGW 160MHz Wireless Network Adapter and Bluetooth
+- Audio Codec : Conexant CX8070
+- Input: ELAN Touchpad / TrackPoint + PS2 Keyboard
+- Display : Lenovo NV140FHM-N48 13.9"
+- Monitor Resolution : Full HD 1920 x 1080
+- Boot Mode : UEFI
 
 # Software Information:
+- Bootloader : OpenCore r0.9.5
+- OS Version : macOS 14.1 (23B74)
 
 # Methond Used:
+OpenCore
 
 # Working Things:
+- QE/CI Graphics Of iGPU Intel UHD , Metal 3
+- CPU Power Management
+- Shutdown, Restart, Sleep and Wake
+- Internal Speaker, Headphone, External and Internal Mic
+- Brightness
+- Brightness Button Up/Down
+- Touchpad / TrackPoint
+- Ethernet
+- Wifi
+- Bluetooth
+- Camera
+- HDMI Out
+- HDMI Audio
+- Battery Indicator
+- All USB Ports
 
 # Not Working Things:
+- FN + HotKey won't work after wake from sleep
 
 # ScreenShots:
 
