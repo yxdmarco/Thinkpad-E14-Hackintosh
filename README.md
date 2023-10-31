@@ -21,6 +21,9 @@ Files and steps for Thinkpad E14 Hackintosh。
 # Methond Used:
 OpenCore
 
+sudo pmset -a hibernatemode 0
+sudo pmset -a proximitywake 0
+
 # Working Things:
 - QE/CI Graphics Of iGPU Intel UHD , Metal 3
 - CPU Power Management
