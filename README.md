@@ -49,10 +49,27 @@ sudo pmset -a proximitywake 0
 - HEVC Hardware Acceleration
 
 # ScreenShots:
-- cpu power
+- cpu power:
 ![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/b90e91a69fc5b5b8b1aa7ec321b473ed98c2b4db/screenshot/01_about_status_cpu.png)
 - wifi:
 ![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/017f5572446aaa4ad3b6601355516567b4b2e8f9/screenshot/02_about_pci_wifi.png)
+- usb & touchpad:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/03_usb%26touchpad.png)
+- sound:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/04_sound.png)
+- graphic:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/05_graphic_displayer.png)
+- nvme & datetime:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/06_nvme_datetime.png)
+- power:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/07_power.png)
+- sata & bootmgr:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/08_sata_boot.png)
+- pci & ioreg:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/09_pci_ioreg.png)
+- hevc:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/5f270a4e4dd6a620988bbb590fcb21fb55c70710/screenshot/10_vlog_hevc_sonoma.png)
+
 # References:
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://www.reddit.com/r/hackintosh/comments/n132fg/lenovo_thinkpad_e14_sleepwake_and_hdmi_problem/
