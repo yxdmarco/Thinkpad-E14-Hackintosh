@@ -41,9 +41,12 @@ sudo pmset -a proximitywake 0
 - HDMI Audio
 - Battery Indicator
 - All USB Ports
+- H264 Hardware Acceleration
 
 # Not Working Things:
 - FN + HotKey won't work after wake from sleep
+- dGPU
+- HEVC Hardware Acceleration
 
 # ScreenShots:
 
