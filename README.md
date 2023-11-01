@@ -21,10 +21,10 @@ Files and steps for Thinkpad E14 Hackintosh。
 # Methond Used:
 - OpenCore
 
+```
 sudo pmset -a hibernatemode 0
-
 sudo pmset -a proximitywake 0
-
+```
 # Working Things:
 - QE/CI Graphics Of iGPU Intel UHD , Metal 3
 - CPU Power Management
@@ -49,7 +49,10 @@ sudo pmset -a proximitywake 0
 - HEVC Hardware Acceleration
 
 # ScreenShots:
-
+- cpu power
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/b90e91a69fc5b5b8b1aa7ec321b473ed98c2b4db/screenshot/01_about_status_cpu.png)
+- wifi:
+![](https://github.com/yxdmarco/Thinkpad-E14-Hackintosh/blob/017f5572446aaa4ad3b6601355516567b4b2e8f9/screenshot/02_about_pci_wifi.png)
 # References:
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://www.reddit.com/r/hackintosh/comments/n132fg/lenovo_thinkpad_e14_sleepwake_and_hdmi_problem/
